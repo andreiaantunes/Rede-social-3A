@@ -22,5 +22,6 @@
     <footer>
         <p>Desenvolvido por Andreia</p>
     </footer>
+    <script>type="mudele"src="informacoesglobais.js"</script>
 </body>
 </html>
